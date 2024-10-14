@@ -19,14 +19,13 @@ export default function Mom() {
             <div className="flip-card-back">
               <div className="information">
                 <h2 className="card-title">Kristy</h2>
-                <p className="card-sub-title">Mom</p>
+                <p className="card-sub-title">The Mother</p>
                 <p className="card-info">
-                  Unfortunately, became a mother <br />
-                  to 16 children without a father. Isn't it concerning? <br />
-                  However, all of the children are now searching for their
-                  father. <br />
-                  Hope we find our dad <br />
-                  someday.
+                  That one popular friend in the group. Very ambitious, very
+                  passionate and a hard worker. Has natural leadership energy
+                  <br />
+                  but goes crazy in the house party. A great advisor and a
+                  respectful person.
                 </p>
                 <button className="btn">
                   <a

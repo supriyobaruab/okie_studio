@@ -50,12 +50,11 @@ export default function Main() {
       <Members
         firstPerson={nupaing}
         Ftitle="Nupaing"
-        Fsubtitle="The divine Beauty"
-        Finfo="Has a great charismatic aura and alluring beauty. The one who is admired by everyone and called wife material . A bit goofy good at responsibilities and good at working with her true strength."
+        Fsubtitle="The divine Beauty . Has a great charismatic aura and alluring beauty. The one who is admired by everyone and called wife material . A bit goofy but good at her responsibilities and good at working with her true strength."
         secondPerson={mumu}
         Stitle="Mumu"
         Ssubtitle="The best girl"
-        Sinfo="An rational thinker. Always in the side of the rights. Has least appearance in group activities but always brings good energy. The least problematic   & has an appealing character."
+        Sinfo="An rational thinker. Always in the side of the rights. Has least appearance in group activities but always brings good energy. The least problematic & has an appealing character."
         thirdPerson={priyanka}
         Ttitle="Priyanka"
         Tsubtitle="The chronicle online user"
@@ -63,17 +62,17 @@ export default function Main() {
         fourthPerson={mongsain}
         Fftitle="Mong Sain"
         Ffsubtitle="The funniest"
-        Ffinfo="Definition  of Comical personality. The liar. A creative Thinker but lacks responsibilities. Very goofy and fragile but has a great harmony  and is adored by everyone for his uniqueness"
+        Ffinfo="Definition  of Comical personality. Great at faking truths. Good at Gossiping. A creative Thinker but lacks responsibilities. Very goofy and fragile but has a great harmony  and is adored by everyone for his uniqueness."
       />
       <Members
         firstPerson={me}
         Ftitle="Supriyo"
-        Fsubtitle="A dependable Person"
-        Finfo="A Prince with a golden spoon. That one friend who is every Parents Favourite . Quirky personality with good sense of humour. Good observer , good at responsibilities and a faithful character."
+        Fsubtitle="A Faithful character"
+        Finfo="A dependable person, a prince with a golden spoon. That one friend who is every Parents Favourite . Quirky personality with a good sense of humour. Good observer and good at responsibilities"
         secondPerson={aongkon}
         Stitle="Aongkon"
         Ssubtitle="Crime Partner"
-        Sinfo="That one supportive Character behind every friend who is the best to be around them . The best friend of all friends."
+        Sinfo="That one supportive ,sassy & fragile Character behind every friend who is the best to be around them also don't think twice before blabbering. The best friend of all friends."
         thirdPerson={debongshi}
         Ttitle="Debongshi"
         Tsubtitle="The OG introvert of introverts"
@@ -81,7 +80,7 @@ export default function Main() {
         fourthPerson={jojo}
         Fftitle="Jojo"
         Ffsubtitle="The teller of Lies"
-        Ffinfo="Good at fake promises and good at excuses. The loner but lives the best of his life. The real tank/supporter of the group. Very Witty and has a good judgement."
+        Ffinfo="The teller of Lies. Good at faking promises and coming up with good excuses. The loner but lives the best of his life. Very Witty and has a good judgement."
       />
       <Members
         firstPerson={emong}
@@ -90,8 +89,8 @@ export default function Main() {
         Finfo="Efficient & sufficient about his works & resources , gives the best version of himself . A true All-Rounder."
         secondPerson={evan}
         Stitle="Evan"
-        Ssubtitle="Vending machine"
-        Sinfo="A good listener who is supportive yet often patronizing. He tends to be self-absorbed and constantly argues with others over various issues, even when he’s wrong. He avoids making judgments and consistently advocates for what he believes is best for everyone."
+        Ssubtitle="The Musician"
+        Sinfo="A vocalist with wide range of musical knowledge a creative thinker and a rational observer also sometimes a debater. A person who always has a plan and leads with well-thoughts."
         thirdPerson={pyaw}
         Ttitle="Pyaw"
         Tsubtitle="The Happiness"
@@ -99,7 +98,7 @@ export default function Main() {
         fourthPerson={ukay}
         Fftitle="Ukay"
         Ffsubtitle="The follower & The messiest"
-        Ffinfo="Has a good initiative drive and good calm personality . Likes to brag about silly things. The one who takes inspo from every thing is surrounded by him but outshines everyone."
+        Ffinfo="The follower & The messiest. Has a good initiative drive and calm personality . Very patient about his work & Smooth Talker. likes to brag about silly things."
       />
     </section>
   );
