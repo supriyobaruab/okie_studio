@@ -12,6 +12,6 @@ iframe {
 }
 @media only screen and (max-width: 600px) {
   #comment {
-    width: 390px;
+    width: 350px;
   }
 }
