@@ -29,7 +29,8 @@ export default function Main() {
         firstPerson={wenai}
         Ftitle="Wenei"
         Fsubtitle="The Troublemaker"
-        Finfo="Most Extroverted & and the baddie among girlies. Gets involved in drama without doing nothing . Lack of  savvy yet  the best person to be comfortable and vibe with.
+        Finfo="Most Extroverted & and the baddie among girlies. Gets involved in drama without doing nothing . Lack of  savvy yet  the best person to be comfortable and vibe with."
+        Ffb="kristy.tanchangya.90
 "
         secondPerson={sindey}
         Stitle="Sindey"
@@ -88,9 +89,9 @@ export default function Main() {
         Fsubtitle="A strong will leader"
         Finfo="Efficient & sufficient about his works & resources , gives the best version of himself . A true All-Rounder."
         secondPerson={evan}
-        Stitle=""
-        Ssubtitle=""
-        Sinfo=""
+        Stitle="Evan"
+        Ssubtitle="Vending machine"
+        Sinfo="A good listener who is supportive yet often patronizing. He tends to be self-absorbed and constantly argues with others over various issues, even when he’s wrong. He avoids making judgments and consistently advocates for what he believes is best for everyone."
         thirdPerson={pyaw}
         Ttitle="Pyaw"
         Tsubtitle="The Happiness"

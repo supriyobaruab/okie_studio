@@ -25,7 +25,7 @@ export default function Navbar() {
             <ul className="navbar-nav mr-auto ms-auto">
               <li className="nav-item active">
                 <a
-                  className="nav-link active fs-5"
+                  className="nav-link fs-5"
                   aria-current="page"
                   href="#first-page"
                 >

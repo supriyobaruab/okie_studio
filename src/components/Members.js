@@ -67,7 +67,9 @@ export default function Members(props) {
                   <h2 className="card-title">{props.Ttitle}</h2>
                   <p className="card-sub-title">{props.Tsubtitle}</p>
                   <p className="card-info">{props.Tinfo}</p>
-                  <button className="btn">Learn more</button>
+                  <button className="btn">
+                    <button className="btn">Learn more</button>
+                  </button>
                 </div>
               </div>
             </div>
@@ -90,7 +92,9 @@ export default function Members(props) {
                   <h2 className="card-title">{props.Fftitle}</h2>
                   <p className="card-sub-title">{props.Ffsubtitle}</p>
                   <p className="card-info">{props.Ffinfo}</p>
-                  <button className="btn">Learn more</button>
+                  <button className="btn">
+                    <button className="btn">Learn more</button>
+                  </button>
                 </div>
               </div>
             </div>
