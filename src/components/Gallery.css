@@ -1,0 +1,16 @@
+@media screen and (orientation: landscape) {
+  .carousel img {
+    max-height: 100vh;
+    object-fit: cover;
+  }
+}
+@media screen and (orientation: portrait) {
+  .carousel-inner img {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    object-fit: contain;
+  }
+}

@@ -1,0 +1,50 @@
+section {
+  min-height: 100vh;
+}
+/*
+.home {
+  align-items: center;
+  display: flex;
+
+  justify-content: center;
+}
+
+.home .about {
+  width: 800px;
+  gap: 1em;
+} */
+.home img {
+  width: 350px;
+  transition: 1s ease;
+}
+.home h1 {
+  font-size: 80px;
+  transition: 1s ease;
+}
+.home h3 {
+  font-size: 40px;
+}
+.home p {
+  font-size: 16px;
+}
+.home h1:hover {
+  scale: 1.1;
+  transform: scale(1.01);
+  text-shadow: 0 0 3px #424242, 0 0 3px #424242;
+}
+.home img:hover {
+  transition: 0.5s ease-in-out;
+  transform: scale(1.1);
+  text-shadow: 0 0 3px #424242, 0 0 3px #424242;
+}
+@media (min-width: 520px) {
+  .home img {
+    width: 500px;
+  }
+  .home h1:hover {
+    transform: scale(1.1);
+  }
+  .home img:hover {
+    transform: scale(1.1);
+  }
+}
