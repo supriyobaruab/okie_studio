@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/okie_studio/static/css/main.58d8d4fd.css",
-    "main.js": "/okie_studio/static/js/main.eb641998.js",
+    "main.js": "/okie_studio/static/js/main.3a85eeb7.js",
     "static/js/453.56ffdec8.chunk.js": "/okie_studio/static/js/453.56ffdec8.chunk.js",
     "static/media/11.jpg": "/okie_studio/static/media/11.36d1cbbb324ba71320f6.jpg",
     "static/media/3.jpg": "/okie_studio/static/media/3.1733a601ef29d3453e2e.jpg",
@@ -26,8 +26,8 @@
     "static/media/emong.png": "/okie_studio/static/media/emong.23adeb0caadd9d6e83b2.png",
     "static/media/singmay.png": "/okie_studio/static/media/singmay.5dfc7a98e4121bacedec.png",
     "static/media/mom.png": "/okie_studio/static/media/mom.594627b6ea6f918b86c8.png",
-    "static/media/Evan.png": "/okie_studio/static/media/Evan.d9a41fe5d0f79cffe7ad.png",
     "static/media/anirudaw.png": "/okie_studio/static/media/anirudaw.8b5852902ebe30610e59.png",
+    "static/media/Evan.png": "/okie_studio/static/media/Evan.8a9f23574db3b2f6b285.png",
     "static/media/mumu.png": "/okie_studio/static/media/mumu.a7c8fc990b73a6e57ff2.png",
     "static/media/pyaw.png": "/okie_studio/static/media/pyaw.d7154e566b2422486dcb.png",
     "static/media/mongsain.png": "/okie_studio/static/media/mongsain.2e47613295a40e6a9214.png",
@@ -37,11 +37,11 @@
     "static/media/okiedown1.png": "/okie_studio/static/media/okiedown1.5f96042f3a2dad04109d.png",
     "index.html": "/okie_studio/index.html",
     "main.58d8d4fd.css.map": "/okie_studio/static/css/main.58d8d4fd.css.map",
-    "main.eb641998.js.map": "/okie_studio/static/js/main.eb641998.js.map",
+    "main.3a85eeb7.js.map": "/okie_studio/static/js/main.3a85eeb7.js.map",
     "453.56ffdec8.chunk.js.map": "/okie_studio/static/js/453.56ffdec8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58d8d4fd.css",
-    "static/js/main.eb641998.js"
+    "static/js/main.3a85eeb7.js"
   ]
 }
