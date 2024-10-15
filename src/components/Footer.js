@@ -53,7 +53,10 @@ export default function Footer() {
               style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
             >
               © 2020 Copyright:
-              <a class="text-white" href="https://mdbootstrap.com/">
+              <a
+                class="text-white"
+                href="https://www.instagram.com/okie.studio/"
+              >
                 Okie-Studio
               </a>
             </div>

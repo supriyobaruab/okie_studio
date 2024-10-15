@@ -68,19 +68,19 @@ export default function Main() {
         firstPerson={me}
         Ftitle="Supriyo"
         Fsubtitle="A Faithful character"
-        Finfo="A dependable person, a prince with a golden spoon. That one friend who is every Parents Favourite . Quirky personality with a good sense of humour. Good observer and good at responsibilities"
+        Finfo="A dependable prince with a golden spoon. That one friend who is every Parents Favourite . Quirky personality with a good sense of humour. Good observer and good at responsibilities"
         secondPerson={aongkon}
         Stitle="Aongkon"
         Ssubtitle="Crime Partner"
         Sinfo="That one supportive ,sassy & fragile Character behind every friend who is the best to be around them also don't think twice before blabbering. The best friend of all friends."
         thirdPerson={debongshi}
-        Ttitle="Debongshi"
+        Ttitle="Debong shi"
         Tsubtitle="The OG introvert of introverts"
         Tinfo="A loner yet never misses any social events or casual meetups. A silent listener but spills  sometimes random words that become iconic among friends."
         fourthPerson={jojo}
         Fftitle="Jojo"
         Ffsubtitle="The teller of Lies"
-        Ffinfo="The teller of Lies. Good at faking promises and coming up with good excuses. The loner but lives the best of his life. Very Witty and has a good judgement."
+        Ffinfo="Good at faking promises and coming up with good excuses. The loner but lives the best of his life. Very Witty and has a good judgement."
       />
       <Members
         firstPerson={emong}

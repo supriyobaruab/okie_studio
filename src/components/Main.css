@@ -1,6 +1,9 @@
 section {
   min-height: 100vh;
 }
+#first-page {
+  background-color: #fff7d150;
+}
 /*
 .home {
   align-items: center;
